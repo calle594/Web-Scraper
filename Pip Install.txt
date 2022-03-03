@@ -1,0 +1,2 @@
+Pip install bs4
+pip install requests
