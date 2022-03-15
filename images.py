@@ -5,9 +5,6 @@ import shutil
 import tempfile
 import urllib.request
 
-
-#Couldnt get this section to work, hopefully you can see what i was trying to do
-
 '''
 def imagefiles(soup_var,user_url):
     Find all images and files and save to directory
